@@ -8,7 +8,6 @@
 #define IsNilString(__String)   (__String==nil || [__String isEqualToString:@"null"] || [__String isEqualToString:@"<null>"])
 
 #import "MyRequest.h"
-#import "AFNetworking.h"
 #import "EGOCache.h"
 #import "LoadingView.h"
 #import "Reachability.h"

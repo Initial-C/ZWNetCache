@@ -8,7 +8,6 @@
 
 #import "ViewController.h"
 #import <MyRequest.h>
-#import <AFNetworking.h>
 
 @interface ViewController ()
 

@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "AFNetworking.h"
 
 typedef void (^SuccessCallBack)     (id responseObject,BOOL succe,NSDictionary *jsonDic);
 typedef void (^FailureCallBack)     (NSError *error);
