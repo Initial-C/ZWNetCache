@@ -1,0 +1,16 @@
+PODS:
+  - ZWNetCache (0.0.1)
+
+DEPENDENCIES:
+  - ZWNetCache (from `../`)
+
+EXTERNAL SOURCES:
+  ZWNetCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZWNetCache: 64daaa970ba9715a81728c754d279bd433c7d8ce
+
+PODFILE CHECKSUM: 19a2e0b9cfee687173180bc5db32b72ca4bedfba
+
+COCOAPODS: 1.1.1

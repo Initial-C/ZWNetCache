@@ -1,0 +1,1 @@
+../../../../../Classes/AFNetworking/AFHTTPSessionManager.h

@@ -1,0 +1,1 @@
+../../../../../Classes/AFNetworking/AFURLResponseSerialization.h
